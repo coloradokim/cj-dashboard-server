@@ -1,0 +1,14 @@
+{
+  "name": "cj-dashboard-server",
+  "version": "1.0.0",
+  "description": "the server for CJ's dashboard",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "mocha"
+  },
+  "keywords": ["node", "express", "CJR"],
+  "author": "Kim Schlesinger",
+  "license": "ISC"
+}
